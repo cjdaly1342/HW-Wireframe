@@ -1,0 +1,105 @@
+/**
+	Wire Frame Homework
+**/
+
+* {
+	box-sizing: border-box;
+	text-align: center;
+}
+
+body {
+	background-color: #777; 
+
+	
+}
+
+header {
+	padding: 20px;
+	margin-bottom: 20px;
+	background-color: #ebebeb;
+	width: 960px;
+	margin: auto;
+	border:10px;
+	color: #777;
+	
+}
+
+.Nav {
+	background-color: #ebebeb;
+	color: #777;
+	margin:auto;
+	width: 960px;
+	padding: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+
+.section {
+	
+	margin-left: 280px;
+	width: 495px;
+	height: 350px;
+	background-color: #ebebeb;
+	padding: 20px;
+	margin-top: 10px;
+	float: left;
+	color: #777;
+	margin-bottom: 10px;
+
+}
+
+.aside {
+	
+	margin-left: 20px;
+	width: 445px;
+	height: 350px;
+	background-color: #ebebeb;
+	padding: 20px;
+	margin-top: 10px;
+	float: left;
+	color: #777;
+	margin-bottom: 10px;
+	
+}
+
+#Article {
+	clear: both;
+	background-color: #777;
+	color: #ebebeb;
+	margin-top: 65px;
+	padding: 30px;
+}
+
+#h1-3 {
+	overflow: auto;
+	margin:auto;
+	background-color: #ebebeb;
+	color: #777;
+	padding:20px;
+	width: 300px;
+}
+
+#p {
+	margin: auto;
+	background-color: #ebebeb;
+	color: #777;
+	margin-top: 10px;
+	padding: 20px;
+	width: 300px;
+
+}
+
+
+.footer {
+	clear: both;
+	background-color: #ebebeb;
+	color: #777;
+	margin:auto;
+	width: 960px;
+	padding: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border:10px;
+	border-color: #777;
+}
