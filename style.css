@@ -21,6 +21,7 @@ header {
 	margin: auto;
 	border:10px;
 	color: #777;
+	font-family: Helvetica, sans-serif;
 	
 }
 
@@ -32,6 +33,7 @@ header {
 	padding: 20px;
 	margin-top: 10px;
 	margin-bottom: 10px;
+	font-family: Helvetica, sans-serif;
 
 }
 
@@ -46,6 +48,7 @@ header {
 	float: left;
 	color: #777;
 	margin-bottom: 10px;
+	font-family: Helvetica, sans-serif;
 
 }
 
@@ -60,6 +63,7 @@ header {
 	float: left;
 	color: #777;
 	margin-bottom: 10px;
+	font-family: Helvetica, sans-serif;
 	
 }
 
@@ -69,6 +73,7 @@ header {
 	color: #ebebeb;
 	margin-top: 65px;
 	padding: 30px;
+	font-family: Helvetica, sans-serif;
 }
 
 #h1-3 {
@@ -78,6 +83,7 @@ header {
 	color: #777;
 	padding:20px;
 	width: 300px;
+
 }
 
 #p {
@@ -87,7 +93,7 @@ header {
 	margin-top: 10px;
 	padding: 20px;
 	width: 300px;
-
+	font-family: Arial, solid;
 }
 
 
@@ -102,4 +108,5 @@ header {
 	margin-bottom: 10px;
 	border:10px;
 	border-color: #777;
+	font-family: Helvetica, sans-serif;
 }
